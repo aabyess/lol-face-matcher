@@ -12,10 +12,12 @@
 쉽고 빠른 재테스트: "다시 테스트하기" 버튼 클릭 한 번으로 재업로드 가능
 
 📸 최종 결과물 화면
+
 ### 이미지 업로드 전 화면
-![upload](./frontend/public/screenshots/upload.png)
+![upload](./public/screenshots/upload.png)
 ### 매칭 결과 화면
-![result](./frontend/public/screenshots/result.png)
+![result](./public/screenshots/result.png)
+
 
 🛠 사용된 기술
 프론트엔드
